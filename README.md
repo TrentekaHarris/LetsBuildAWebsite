@@ -4,7 +4,7 @@
 
  *hint* - Bootstrap?
 
- **Step 2:** Let's make this webstite our own! Change the headings in the NAV and H1 to include your name!
+ **Step 2:** Let's make this website our own! Change the headings in the NAV and H1 to include your name!
 
 **Step 3:** Let's customize the images! 
 
